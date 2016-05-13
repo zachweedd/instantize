@@ -1,4 +1,7 @@
 # instantize
+
+First of all, this is NOT meant to be used in a production environment. The purpose of this was to see if I could do it.
+
 Easily create instance variables from method arguments
 
 ### I'm sure most of us have ended up in situations like this:
